@@ -24,14 +24,10 @@
   </scm>  
     
 
-	<properties>
-		<gwt.version>2.1.0</gwt.version>
-	</properties>
-
 	<groupId>org.liveSense</groupId>
 	<artifactId>org.liveSense.framework.gxt</artifactId>
 	<packaging>bundle</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>liveSense Ext GWT package</name>
 	<description>liveSense Ext GWT package</description>
 	<build>
