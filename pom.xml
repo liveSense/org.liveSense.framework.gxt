@@ -41,7 +41,7 @@
 		
 						<!-- initial content to be loaded on bundle installation -->
 						<Sling-Initial-Content>
-							SLING-INF/nodes;overwrite:=true;uninstall:=true
+							SLING-INF/content;overwrite:=true;uninstall:=true
 						</Sling-Initial-Content>
 		
 						<Export-Package>
@@ -55,7 +55,7 @@
 		
 						<!-- Copy the files from filesystem to Bundle -->
 						<Include-Resource>
-							SLING-INF/nodes=src/main/nodes,
+							SLING-INF/content=src/main/content,
 							{maven-resources}
 						</Include-Resource>
 		
