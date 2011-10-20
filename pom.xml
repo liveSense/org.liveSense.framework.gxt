@@ -75,7 +75,8 @@
 			<groupId>com.extjs</groupId>
 			<artifactId>gxt</artifactId>
 			<version>2.2.5-gwt22</version>
-			<scope>compile</scope>
+			<scope>system</scope>
+      			<systemPath>${basedir}/lib/gxt-2.2.5-gwt22.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
