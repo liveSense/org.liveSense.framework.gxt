@@ -16,7 +16,7 @@
     
     <artifactId>org.liveSense.framework.gxt</artifactId>
 	<packaging>bundle</packaging>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1-2.2.5-SNAPSHOT</version>
 	<name>liveSense Ext GWT package</name>
 	<description>liveSense Ext GWT package</description>
 	<build>
@@ -47,7 +47,6 @@
 						</Export-Package>
 		
 						<Import-Package>
-							!javax.portlet.*,
 							*;resolution:=optional
 						</Import-Package>
 		
