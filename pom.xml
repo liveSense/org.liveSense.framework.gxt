@@ -16,7 +16,7 @@
     
     <artifactId>org.liveSense.framework.gxt</artifactId>
 	<packaging>bundle</packaging>
-	<version>1.0.1-2.2.5-SNAPSHOT</version>
+	<version>1.0.1-3.0.0-beta2-SNAPSHOT</version>
 	<name>liveSense Ext GWT package</name>
 	<description>liveSense Ext GWT package</description>
 	<build>
@@ -43,7 +43,7 @@
 						</Sling-Initial-Content>
 		
 						<Export-Package>
-							com.extjs.*
+							com.sencha.gxt.*
 						</Export-Package>
 		
 						<Import-Package>
@@ -61,7 +61,7 @@
 						</Embed-Dependency>
 						
 						<DynamicImport-Package>
-							com.google.gwt.*
+							com.google.gwt.*, com.google.web.bindery.*
 						</DynamicImport-Package>
 					</instructions>
 				</configuration>
@@ -70,6 +70,13 @@
 
 	</build>
 	<dependencies>
+	
+	<dependency>
+		<groupId>com.sencha.gxt</groupId>
+		<artifactId>gxt</artifactId>
+		<version>3.0.0-beta2</version>
+	</dependency>
+    <!--         
 		<dependency>
 			<groupId>com.extjs</groupId>
 			<artifactId>gxt</artifactId>
@@ -77,6 +84,7 @@
 			<scope>system</scope>
       			<systemPath>${basedir}/lib/gxt-2.2.5-gwt22.jar</systemPath>
 		</dependency>
+ 	-->
 	</dependencies>
 </project>
 
