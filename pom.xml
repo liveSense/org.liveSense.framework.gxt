@@ -52,7 +52,6 @@
 		
 						<!-- Copy the files from filesystem to Bundle -->
 						<Include-Resource>
-							SLING-INF/content=src/main/content,
 							{maven-resources}
 						</Include-Resource>
 		
