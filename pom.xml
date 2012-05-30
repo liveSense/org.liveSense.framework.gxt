@@ -17,7 +17,7 @@
     <artifactId>org.liveSense.framework.gxt</artifactId>
 	<packaging>bundle</packaging>
 	<version>3.0.0-rc2_1-SNAPSHOT</version>
-	<name>liveSense Ext GWT package</name>
+	<name>liveSense :: Framework :: GWT Server side</name>
 	<description>liveSense Ext GWT package</description>
 	<build>
 		<plugins>
