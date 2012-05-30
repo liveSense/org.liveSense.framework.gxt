@@ -16,7 +16,7 @@
     
     <artifactId>org.liveSense.framework.gxt</artifactId>
 	<packaging>bundle</packaging>
-	<version>3.0.0-rc2_1-SNAPSHOT</version>
+	<version>${gxt.version}_1-SNAPSHOT</version>
 	<name>liveSense :: Framework :: GWT Server side</name>
 	<description>liveSense Ext GWT package</description>
 	<build>
@@ -73,7 +73,7 @@
 	<dependency>
 		<groupId>com.sencha.gxt</groupId>
 		<artifactId>gxt</artifactId>
-		<version>3.0.0-rc2</version>
+		<version>${gxt.version}</version>
 	</dependency>
     <!--         
 		<dependency>
