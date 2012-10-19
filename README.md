@@ -1,0 +1,153 @@
+# [liveSense :: Framework :: GWT Server side - org.liveSense.framework.gxt](http://github.com/liveSense/org.liveSense.framework.gxt)
+## Description
+liveSense Ext GWT package
+## Exported packages
+* com.sencha.gxt.cell.core(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.cell.core.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.cell.core.client.form(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.client.dom(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.client.dom.impl(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.client.resources(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.client.util(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.rebind(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.rebind.useragent(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.shared(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.core.shared.event(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.client.editor(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.client.loader(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.client.writer(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.rebind(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.shared(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.shared.event(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.shared.loader(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.data.shared.writer(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.dnd.core(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.dnd.core.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.fx(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.fx.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.fx.client.animation(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.fx.client.easing(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.messages(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.messages.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.state(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.state.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.state.rebind(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.button(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.colorpalette(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.container(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.draggable(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.field(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.frame(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.grid(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.info(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.menu(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.panel(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.progress(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.public(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.public.base.images(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.resizable(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.shared(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.slider(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.status(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.statusproxy(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.tabs(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.tips(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.tool(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.toolbar(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.tree(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.widget(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.client.window(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.public(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.public.base.images(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.public.base.images.button(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.base.public.base.images.grid(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.box(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.button(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.colorpalette(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.container(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.field(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.menu(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.panel(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.progress(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.resizable(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.slider(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.status(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.statusproxy(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.tabs(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.toolbar(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.tools(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.tree(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.widget(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.client.window(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.public.blue.images.menu(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.public.blue.images.slider(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.blue.public.css(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.gray(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.theme.gray.public.css(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.ui(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.ui.public(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.box(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.button(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.cell(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.container(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.event(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.form(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.form.error(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.form.validator(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.grid(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.grid.editing(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.grid.filters(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.info(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.menu(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.selection(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.tips(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.toolbar(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.tree(3.0.0.rc2_1-SNAPSHOT)
+* com.sencha.gxt.widget.core.client.treegrid(3.0.0.rc2_1-SNAPSHOT)
+## Dependencies
+* __Commons Lang - org.apache.commons.lang (2.5)__
+	* org.apache.commons.lang
+* __[liveSense :: Framework :: GWT framework - org.liveSense.framework.gwt](http://github.com/liveSense/org.liveSense.framework.gwt) (2.4.0.1-SNAPSHOT)__
+	* com.google.gwt.animation.client
+	* com.google.gwt.cell.client
+	* com.google.gwt.core.client
+	* com.google.gwt.dev.util
+	* com.google.gwt.dom.client
+	* com.google.gwt.editor.client
+	* com.google.gwt.event.dom.client
+	* com.google.gwt.event.logical.shared
+	* com.google.gwt.event.shared
+	* com.google.gwt.http.client
+	* com.google.gwt.i18n.client
+	* com.google.gwt.i18n.client.constants
+	* com.google.gwt.i18n.shared
+	* com.google.gwt.jsonp.client
+	* com.google.gwt.resources.client
+	* com.google.gwt.resources.client.impl
+	* com.google.gwt.safecss.shared
+	* com.google.gwt.safehtml.client
+	* com.google.gwt.safehtml.shared
+	* com.google.gwt.storage.client
+	* com.google.gwt.text.shared
+	* com.google.gwt.uibinder.client
+	* com.google.gwt.user.client
+	* com.google.gwt.user.client.rpc
+	* com.google.gwt.user.client.rpc.core.java.util
+	* com.google.gwt.user.client.ui
+	* com.google.gwt.user.client.ui.impl
+	* com.google.gwt.view.client
+	* com.google.gwt.xml.client
+	* com.google.web.bindery.autobean.shared
+	* com.google.web.bindery.autobean.shared.impl
+	* com.google.web.bindery.event.shared
+	* com.google.web.bindery.requestfactory.shared
+## Embedded JARs
