@@ -18,8 +18,8 @@
     <artifactId>org.liveSense.framework.gxt</artifactId>
 	<packaging>bundle</packaging>
 	<version>${gxt.version}_1-SNAPSHOT</version>
-	<name>liveSense :: Framework :: GWT Server side</name>
-	<description>liveSense Ext GWT package</description>
+	<name>liveSense :: Framework :: GXT (ExtGWT)</name>
+	<description>liveSense Ext GXT framework</description>
 	<build>
 		<plugins>
 
