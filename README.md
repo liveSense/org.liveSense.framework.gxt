@@ -1,7 +1,9 @@
-# [liveSense :: Framework :: GWT Server side - org.liveSense.framework.gxt](http://github.com/liveSense/org.liveSense.framework.gxt)
+# [liveSense :: Framework :: GXT (ExtGWT) - org.liveSense.framework.gxt](http://github.com/liveSense/org.liveSense.framework.gxt)
+
 ## Description
-liveSense Ext GWT package
-## Exported packages
+liveSense Ext GXT framework
+
+## OSGi Exported packages
 * com.sencha.gxt.cell.core(3.0.0.rc2_1-SNAPSHOT)
 * com.sencha.gxt.cell.core.client(3.0.0.rc2_1-SNAPSHOT)
 * com.sencha.gxt.cell.core.client.form(3.0.0.rc2_1-SNAPSHOT)
@@ -113,10 +115,11 @@ liveSense Ext GWT package
 * com.sencha.gxt.widget.core.client.toolbar(3.0.0.rc2_1-SNAPSHOT)
 * com.sencha.gxt.widget.core.client.tree(3.0.0.rc2_1-SNAPSHOT)
 * com.sencha.gxt.widget.core.client.treegrid(3.0.0.rc2_1-SNAPSHOT)
-## Dependencies
+
+## OSGi Dependencies
 * __Commons Lang - org.apache.commons.lang (2.5)__
 	* org.apache.commons.lang
-* __[liveSense :: Framework :: GWT framework - org.liveSense.framework.gwt](http://github.com/liveSense/org.liveSense.framework.gwt) (2.4.0.1-SNAPSHOT)__
+* __[liveSense :: Framework :: GWT framework - org.liveSense.framework.gwt (2-SNAPSHOT)](http://github.com/liveSense/org.liveSense.framework.gwt)__
 	* com.google.gwt.animation.client
 	* com.google.gwt.cell.client
 	* com.google.gwt.core.client
@@ -150,4 +153,8 @@ liveSense Ext GWT package
 	* com.google.web.bindery.autobean.shared.impl
 	* com.google.web.bindery.event.shared
 	* com.google.web.bindery.requestfactory.shared
-## Embedded JARs
+
+## OSGi Embedded JARs
+
+## Dependency Graph
+![alt text](http://raw.github.com.everydayimmirror.in/liveSense/org.liveSense.framework.gxt/master/osgidependencies.svg "")
