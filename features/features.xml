@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-framework-gxt" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
 	<feature name="liveSense-framework-gxt" version="${liveSense.framework.gxt.version}" description="liveSense framework gxt">
+        <feature>apache-commons</feature>
         <feature>liveSense-framework-gwt</feature>
-        <feature>liveSense-core-apache-commons</feature>
         <bundle>mvn:com.github.livesense/org.liveSense.framework.gxt/${liveSense.framework.gxt.version}</bundle>
 	</feature>
 </features>
